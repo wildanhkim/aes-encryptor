@@ -29,5 +29,4 @@ Aplikasi ini cocok untuk:
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd <REPO>
+git clone https://github.com/wildanhkim/aes-encryptor.git
